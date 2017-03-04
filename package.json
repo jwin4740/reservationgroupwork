@@ -2,7 +2,7 @@
   "name": "reservationgroup",
   "version": "1.0.0",
   "description": "make reservations for restaurant",
-  "main": "app.js",
+  "main": "data.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.0",
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "nodemon": "^1.11.0"
   }
 }
